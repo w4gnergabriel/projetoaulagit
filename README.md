@@ -1,11 +1,11 @@
 # Apresesntação
 trabalhando com a ferramenta de versionamento
 
-##Objetivo
+**Objetivo
 
 Aprender as principais ferramentas da plataforma
 
-##Funcionalidades
+**Funcionalidades
 * item 1
 * item 2
 * item 3
